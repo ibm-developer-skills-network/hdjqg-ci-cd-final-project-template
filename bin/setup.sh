@@ -4,7 +4,7 @@ echo " Setting up Node.js Counter Service Environment"
 echo "**************************************************"
 
 echo "*** Installing Node.js and npm"
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 echo "*** Checking Node.js and npm versions..."
