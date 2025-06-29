@@ -51,7 +51,6 @@ coverage
 bower_components
 
 # Lock files (choose one)
-package-lock.json
 yarn.lock
 
 # Local environment
